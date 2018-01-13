@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I'm a publishing geek learning to tech. See me tweet at @ashhauenschild
